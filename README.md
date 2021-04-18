@@ -1,3 +1,7 @@
+**This is the old basecode of www.fabrizioduroni.it. You can find the new version in the repository [chicio.github.io](https://github.com/chicio/chicio.github.io/)**
+
+
+
 # chicio.github.io - www.fabrizioduroni.it
 
 ![Build](https://github.com/chicio/chicio.github.io/workflows/Build/badge.svg)
